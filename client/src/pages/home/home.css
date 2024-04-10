@@ -1,0 +1,23 @@
+.homeContainer {
+  display: flex;
+  width: 100%;
+}
+
+.homeSidebarContainer {
+  flex: 3;
+}
+
+.homeRightbarContainer {
+  flex: 4;
+}
+
+@media only screen and (max-width: 600px) {
+  .homeSidebarContainer {
+    visibility: hidden;
+    display: none;
+  }
+  .homeRightbarContainer {
+    visibility: hidden;
+    display: none;
+  }
+}
