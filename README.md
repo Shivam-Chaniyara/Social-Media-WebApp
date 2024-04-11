@@ -1,7 +1,7 @@
-# Facebook-Clone
-Creating a Full-Stack Facebook Clone (MERN Stack)
+# Social Media WebApp
+Creating a Full-Stack Social Media Web App (MERN Stack)
 
-MySocialWeb is a Facebook Clone that allows users to connect, share, and interact with each other
+MySocialWeb is a Social Media WebApp that allows users to connect, share, and interact with each other
 in a familiar social media environment. Built using React and Node.js, this project aims to
 provide a user-friendly and engaging experience.
 
